@@ -12,86 +12,153 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Regita =====
-[1]Regita      |08:28:55 | 19-10-2026| login OK @regitamalova | score=1440 rank=4758
-[1]Regita      |08:28:55 | 19-10-2026| serverTime=2026-10-19T08:28:55.000Z local=2026-10-19T08:28:55.105Z
+[1]Regita      |08:11:01 | 20-10-2026| login OK @regitamalova | score=1550 rank=4497
+[1]Regita      |08:11:01 | 20-10-2026| serverTime=2026-10-20T08:11:01.000Z local=2026-10-20T08:11:01.506Z
 --> [1]Regita menjalankan: Claim Daily
-[1]Regita      |08:28:56 | 19-10-2026| daily: OK +10 poin score=1450
---> [1]Regita menjalankan: Auto All Tasks (10 pending)
-[1]Regita      |08:28:58 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098295510979027
-[1]Regita      |08:28:58 | 19-10-2026| delay 10s...
-[1]Regita      |08:29:11 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098232265265545
-[1]Regita      |08:29:11 | 19-10-2026| delay 10s...
-[1]Regita      |08:29:23 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098400014696454
-[1]Regita      |08:29:23 | 19-10-2026| delay 10s...
-[1]Regita      |08:29:36 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098550128154241
-[1]Regita      |08:29:36 | 19-10-2026| delay 10s...
-[1]Regita      |08:29:51 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098311024188743
-[1]Regita      |08:29:51 | 19-10-2026| delay 10s...
-[1]Regita      |08:30:03 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098351300499902
-[1]Regita      |08:30:03 | 19-10-2026| delay 10s...
-[1]Regita      |08:30:16 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098587042630975
-[1]Regita      |08:30:16 | 19-10-2026| delay 10s...
-[1]Regita      |08:30:29 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098555539784788
-[1]Regita      |08:30:29 | 19-10-2026| delay 10s...
-[1]Regita      |08:30:41 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098823077261333
-[1]Regita      |08:30:41 | 19-10-2026| delay 10s...
-[1]Regita      |08:30:53 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/regitamalova/status/2112098874844698160
-[1]Regita      |08:30:53 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Regita      |08:30:54 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/regitamalova/status/2112098899191972068
+[1]Regita      |08:11:02 | 20-10-2026| daily: OK +10 poin score=1560
+--> [1]Regita menjalankan: Auto All Tasks (6 pending)
+[1]Regita      |08:11:04 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112456083091756357
+[1]Regita      |08:11:04 | 20-10-2026| delay 10s...
+[1]Regita      |08:11:17 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112455994759300806
+[1]Regita      |08:11:17 | 20-10-2026| delay 10s...
+[1]Regita      |08:11:29 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112456294338203961
+[1]Regita      |08:11:29 | 20-10-2026| delay 10s...
+[1]Regita      |08:11:41 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112456155020440918
+[1]Regita      |08:11:41 | 20-10-2026| delay 10s...
+[1]Regita      |08:11:53 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112456222163783290
+[1]Regita      |08:11:53 | 20-10-2026| delay 10s...
+[1]Regita      |08:12:05 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/regitamalova/status/2112456294586724372
+[1]Regita      |08:12:05 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Regita      |08:12:06 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/regitamalova/status/2112456537559021882
 --> [1]Regita menjalankan: Watch Anime
-[1]Regita      |08:30:57 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Regita      |08:30:57 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Regita      |08:30:58 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Regita      |08:31:03 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Regita      |08:31:05 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Regita      |08:31:10 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Regita      |08:31:12 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Regita      |08:31:17 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Regita      |08:31:18 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Regita      |08:12:07 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Regita      |08:12:07 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Regita      |08:12:09 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Regita      |08:12:15 | 20-10-2026| watch oshi-captains-hat: 5% (5.16/92.00s)
+[1]Regita      |08:12:21 | 20-10-2026| watch oshi-captains-hat: 11% (10.59/92.00s)
+[1]Regita      |08:12:27 | 20-10-2026| watch oshi-captains-hat: 17% (16.06/92.00s)
+[1]Regita      |08:12:33 | 20-10-2026| watch oshi-captains-hat: 23% (21.74/92.00s)
+[1]Regita      |08:12:39 | 20-10-2026| watch oshi-captains-hat: 29% (27.38/92.00s)
+[1]Regita      |08:12:46 | 20-10-2026| watch oshi-captains-hat: 35% (32.82/92.00s)
+[1]Regita      |08:12:52 | 20-10-2026| watch oshi-captains-hat: 41% (38.54/92.00s)
+[1]Regita      |08:12:58 | 20-10-2026| watch oshi-captains-hat: 47% (44.14/92.00s)
+[1]Regita      |08:13:04 | 20-10-2026| watch oshi-captains-hat: 54% (49.95/92.00s)
+[1]Regita      |08:13:11 | 20-10-2026| watch oshi-captains-hat: 60% (55.47/92.00s)
+[1]Regita      |08:13:17 | 20-10-2026| watch oshi-captains-hat: 66% (60.92/92.00s)
+[1]Regita      |08:13:23 | 20-10-2026| watch oshi-captains-hat: 72% (66.61/92.00s)
+[1]Regita      |08:13:29 | 20-10-2026| watch oshi-captains-hat: 78% (72.07/92.00s)
+[1]Regita      |08:13:36 | 20-10-2026| watch oshi-captains-hat: 84% (77.82/92.00s)
+[1]Regita      |08:13:42 | 20-10-2026| watch oshi-captains-hat: 90% (83.46/92.00s)
+[1]Regita      |08:13:42 | 20-10-2026| watch oshi-captains-hat: COMPLETED (83.46/92.00s)
+[1]Regita      |08:13:47 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Regita      |08:13:48 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Regita      |08:13:55 | 20-10-2026| watch oshi-rainbow-star: 6% (5.19/86.00s)
+[1]Regita      |08:14:01 | 20-10-2026| watch oshi-rainbow-star: 12% (10.99/86.00s)
+[1]Regita      |08:14:07 | 20-10-2026| watch oshi-rainbow-star: 19% (16.48/86.00s)
+[1]Regita      |08:14:13 | 20-10-2026| watch oshi-rainbow-star: 25% (22.09/86.00s)
+[1]Regita      |08:14:19 | 20-10-2026| watch oshi-rainbow-star: 32% (27.60/86.00s)
+[1]Regita      |08:14:25 | 20-10-2026| watch oshi-rainbow-star: 38% (33.22/86.00s)
+[1]Regita      |08:14:31 | 20-10-2026| watch oshi-rainbow-star: 44% (38.66/86.00s)
+[1]Regita      |08:14:38 | 20-10-2026| watch oshi-rainbow-star: 51% (44.10/86.00s)
+[1]Regita      |08:14:44 | 20-10-2026| watch oshi-rainbow-star: 58% (50.11/86.00s)
+[1]Regita      |08:14:51 | 20-10-2026| watch oshi-rainbow-star: 64% (55.55/86.00s)
+[1]Regita      |08:14:57 | 20-10-2026| watch oshi-rainbow-star: 71% (61.48/86.00s)
+[1]Regita      |08:15:03 | 20-10-2026| watch oshi-rainbow-star: 78% (67.13/86.00s)
+[1]Regita      |08:15:09 | 20-10-2026| watch oshi-rainbow-star: 84% (72.54/86.00s)
+[1]Regita      |08:15:31 | 20-10-2026| watch oshi-rainbow-star: 90% (78.14/86.00s)
+[1]Regita      |08:15:31 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (78.14/86.00s)
+[1]Regita      |08:15:36 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Regita      |08:15:37 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Regita      |08:15:44 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.24/87.00s)
+[1]Regita      |08:15:50 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.89/87.00s)
+[1]Regita      |08:15:56 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.35/87.00s)
+[1]Regita      |08:16:02 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.86/87.00s)
+[1]Regita      |08:16:08 | 20-10-2026| watch oshi-rainbow-lighthouse: 31% (27.62/87.00s)
+[1]Regita      |08:16:15 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.13/87.00s)
+[1]Regita      |08:16:21 | 20-10-2026| watch oshi-rainbow-lighthouse: 44% (39.00/87.00s)
+[1]Regita      |08:16:27 | 20-10-2026| watch oshi-rainbow-lighthouse: 51% (44.42/87.00s)
+[1]Regita      |08:16:33 | 20-10-2026| watch oshi-rainbow-lighthouse: 57% (50.05/87.00s)
+[1]Regita      |08:16:39 | 20-10-2026| watch oshi-rainbow-lighthouse: 63% (55.53/87.00s)
+[1]Regita      |08:16:46 | 20-10-2026| watch oshi-rainbow-lighthouse: 70% (60.92/87.00s)
+[1]Regita      |08:16:52 | 20-10-2026| watch oshi-rainbow-lighthouse: 77% (67.52/87.00s)
+[1]Regita      |08:16:59 | 20-10-2026| watch oshi-rainbow-lighthouse: 83% (72.94/87.00s)
+[1]Regita      |08:17:05 | 20-10-2026| watch oshi-rainbow-lighthouse: 90% (78.40/87.00s)
+[1]Regita      |08:17:05 | 20-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (78.40/87.00s)
+[1]Regita      |08:17:10 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Regita      |08:17:11 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Regita      |08:17:18 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.18/181.00s)
+[1]Regita      |08:17:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 6% (10.91/181.00s)
+[1]Regita      |08:17:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.32/181.00s)
+[1]Regita      |08:17:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.70/181.00s)
+[1]Regita      |08:17:42 | 20-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.36/181.00s)
+[1]Regita      |08:17:48 | 20-10-2026| watch bakeru-ikesou-jan-mv: 18% (32.91/181.00s)
+[1]Regita      |08:17:54 | 20-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.66/181.00s)
+[1]Regita      |08:18:00 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.07/181.00s)
+[1]Regita      |08:18:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.56/181.00s)
+[1]Regita      |08:18:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.25/181.00s)
+[1]Regita      |08:18:19 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.73/181.00s)
+[1]Regita      |08:18:25 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.34/181.00s)
+[1]Regita      |08:18:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.80/181.00s)
+[1]Regita      |08:18:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 43% (77.83/181.00s)
+[1]Regita      |08:18:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.52/181.00s)
+[1]Regita      |08:18:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 49% (88.95/181.00s)
+[1]Regita      |08:18:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 52% (94.38/181.00s)
+[1]Regita      |08:19:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 55% (99.87/181.00s)
+[1]Regita      |08:19:09 | 20-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.27/181.00s)
+[1]Regita      |08:19:17 | 20-10-2026| watch bakeru-ikesou-jan-mv: 61% (110.78/181.00s)
+[1]Regita      |08:19:24 | 20-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.87/181.00s)
+[1]Regita      |08:19:30 | 20-10-2026| watch bakeru-ikesou-jan-mv: 67% (122.93/181.00s)
+[1]Regita      |08:19:36 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (128.93/181.00s)
+[1]Regita      |08:19:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.51/181.00s)
+[1]Regita      |08:19:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.56/181.00s)
+[1]Regita      |08:19:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.02/181.00s)
+[1]Regita      |08:20:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.53/181.00s)
+[1]Regita      |08:20:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 87% (157.96/181.00s)
+[1]Regita      |08:20:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.66/181.00s)
+[1]Regita      |08:20:13 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.66/181.00s)
 --> [1]Regita menjalankan: Read Article
-[1]Regita      |08:31:21 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Regita      |08:31:21 | 19-10-2026| mint eligibility: {"userId":"1717420986361155584","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@regitamalova","status":"submitted","revision":"a69e2f3d-a445-4b33-96df-dd8b6e646
-[1]Regita      |08:31:21 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Regita      |08:20:15 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Regita      |08:20:15 | 20-10-2026| mint eligibility: {"userId":"1717420986361155584","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@regitamalova","status":"submitted","revision":"a69e2f3d-a445-4b33-96df-dd8b6e646
+[1]Regita      |08:20:15 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Regita menjalankan: Quiz Anime
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Regita      |08:31:22 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Regita      |08:20:18 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Regita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Regita      |08:31:24 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Regita      |08:31:25 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Regita      |08:31:25 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Regita      |08:31:25 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Regita      |08:20:34 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Regita      |08:20:34 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Regita      |08:20:34 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Regita      |08:20:34 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Regita menjalankan: Claim Missions
-[1]Regita      |08:31:25 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Regita      |08:31:25 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Regita      |08:31:25 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Regita      |08:20:35 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Regita      |08:20:35 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Regita      |08:20:35 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Regita menjalankan: Check Eligibility
 
 --- eligibility [1]Regita ---
-  @regitamalova | score=1440 rank=4758
-  tasks    [##################--] 74/84
+  @regitamalova | score=1550 rank=4497
+  tasks    [###################-] 74/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Regita menjalankan: Read Manga
-[1]Regita      |08:31:29 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Regita      |08:20:40 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Regita menjalankan: Get Gift
-[1]Regita      |08:31:29 | 19-10-2026| gift: 0/4 belum diterima
+[1]Regita      |08:20:41 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Regita menjalankan: Setup Profile
-[1]Regita      |08:31:30 | 19-10-2026| profile: bio="https://x.com/regitamalova" fav=kagura rewardAt=1791687723
-[1]Regita      |08:31:30 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Regita      |08:20:41 | 20-10-2026| profile: bio="https://x.com/regitamalova" fav=kagura rewardAt=1791687723
+[1]Regita      |08:20:41 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Regita menjalankan: Bind Wallet
-[1]Regita      |08:31:30 | 19-10-2026| wallet: sudah terikat GynAzPVLWD... (solana)
+[1]Regita      |08:20:42 | 20-10-2026| wallet: sudah terikat GynAzPVLWD... (solana)
 
 == RINGKASAN ==
-- Regita: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Regita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
